@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyBirthdayCard</string>
+    <string name="wishing_in_portrait">Happy Birthday \nto my Dear Mum!</string>
+    <string name="wishing_in_landscape">Happy Birthday to my Dear Mum!</string>
+    <string name="wishing_from_in_portrait">LOVE, \nyour Daughter</string>
+    <string name="wishing_from_in_landscape">LOVE,\nyour \nDaughter</string>
+</resources>

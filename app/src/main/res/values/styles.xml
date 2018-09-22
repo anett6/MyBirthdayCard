@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#FF80AB</item>
+        <item name="colorPrimaryDark">#FF80AB</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">#FF80AB</item>
+        <item name="android:textSize">32sp</item>
+    </style>
+
+</resources>
